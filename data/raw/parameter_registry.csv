@@ -1,0 +1,145 @@
+parameter_id,parameter_name,parameter_category
+P001,Visit Window Compliance - Check 01,Visit Window Compliance
+P002,Visit Window Compliance - Check 02,Visit Window Compliance
+P003,Visit Window Compliance - Check 03,Visit Window Compliance
+P004,Visit Window Compliance - Check 04,Visit Window Compliance
+P005,Visit Window Compliance - Check 05,Visit Window Compliance
+P006,Visit Window Compliance - Check 06,Visit Window Compliance
+P007,Visit Window Compliance - Check 07,Visit Window Compliance
+P008,Visit Window Compliance - Check 08,Visit Window Compliance
+P009,Visit Window Compliance - Check 09,Visit Window Compliance
+P010,Visit Window Compliance - Check 10,Visit Window Compliance
+P011,Visit Window Compliance - Check 11,Visit Window Compliance
+P012,Visit Window Compliance - Check 12,Visit Window Compliance
+P013,Visit Window Compliance - Check 13,Visit Window Compliance
+P014,Visit Window Compliance - Check 14,Visit Window Compliance
+P015,Visit Window Compliance - Check 15,Visit Window Compliance
+P016,Visit Window Compliance - Check 16,Visit Window Compliance
+P017,Visit Window Compliance - Check 17,Visit Window Compliance
+P018,Visit Window Compliance - Check 18,Visit Window Compliance
+P019,Inclusion/Exclusion Criteria - Check 01,Inclusion/Exclusion Criteria
+P020,Inclusion/Exclusion Criteria - Check 02,Inclusion/Exclusion Criteria
+P021,Inclusion/Exclusion Criteria - Check 03,Inclusion/Exclusion Criteria
+P022,Inclusion/Exclusion Criteria - Check 04,Inclusion/Exclusion Criteria
+P023,Inclusion/Exclusion Criteria - Check 05,Inclusion/Exclusion Criteria
+P024,Inclusion/Exclusion Criteria - Check 06,Inclusion/Exclusion Criteria
+P025,Inclusion/Exclusion Criteria - Check 07,Inclusion/Exclusion Criteria
+P026,Inclusion/Exclusion Criteria - Check 08,Inclusion/Exclusion Criteria
+P027,Inclusion/Exclusion Criteria - Check 09,Inclusion/Exclusion Criteria
+P028,Inclusion/Exclusion Criteria - Check 10,Inclusion/Exclusion Criteria
+P029,Inclusion/Exclusion Criteria - Check 11,Inclusion/Exclusion Criteria
+P030,Inclusion/Exclusion Criteria - Check 12,Inclusion/Exclusion Criteria
+P031,Inclusion/Exclusion Criteria - Check 13,Inclusion/Exclusion Criteria
+P032,Inclusion/Exclusion Criteria - Check 14,Inclusion/Exclusion Criteria
+P033,Inclusion/Exclusion Criteria - Check 15,Inclusion/Exclusion Criteria
+P034,Inclusion/Exclusion Criteria - Check 16,Inclusion/Exclusion Criteria
+P035,Inclusion/Exclusion Criteria - Check 17,Inclusion/Exclusion Criteria
+P036,Inclusion/Exclusion Criteria - Check 18,Inclusion/Exclusion Criteria
+P037,Dosing Schedule Adherence - Check 01,Dosing Schedule Adherence
+P038,Dosing Schedule Adherence - Check 02,Dosing Schedule Adherence
+P039,Dosing Schedule Adherence - Check 03,Dosing Schedule Adherence
+P040,Dosing Schedule Adherence - Check 04,Dosing Schedule Adherence
+P041,Dosing Schedule Adherence - Check 05,Dosing Schedule Adherence
+P042,Dosing Schedule Adherence - Check 06,Dosing Schedule Adherence
+P043,Dosing Schedule Adherence - Check 07,Dosing Schedule Adherence
+P044,Dosing Schedule Adherence - Check 08,Dosing Schedule Adherence
+P045,Dosing Schedule Adherence - Check 09,Dosing Schedule Adherence
+P046,Dosing Schedule Adherence - Check 10,Dosing Schedule Adherence
+P047,Dosing Schedule Adherence - Check 11,Dosing Schedule Adherence
+P048,Dosing Schedule Adherence - Check 12,Dosing Schedule Adherence
+P049,Dosing Schedule Adherence - Check 13,Dosing Schedule Adherence
+P050,Dosing Schedule Adherence - Check 14,Dosing Schedule Adherence
+P051,Dosing Schedule Adherence - Check 15,Dosing Schedule Adherence
+P052,Dosing Schedule Adherence - Check 16,Dosing Schedule Adherence
+P053,Dosing Schedule Adherence - Check 17,Dosing Schedule Adherence
+P054,Dosing Schedule Adherence - Check 18,Dosing Schedule Adherence
+P055,Informed Consent Timing - Check 01,Informed Consent Timing
+P056,Informed Consent Timing - Check 02,Informed Consent Timing
+P057,Informed Consent Timing - Check 03,Informed Consent Timing
+P058,Informed Consent Timing - Check 04,Informed Consent Timing
+P059,Informed Consent Timing - Check 05,Informed Consent Timing
+P060,Informed Consent Timing - Check 06,Informed Consent Timing
+P061,Informed Consent Timing - Check 07,Informed Consent Timing
+P062,Informed Consent Timing - Check 08,Informed Consent Timing
+P063,Informed Consent Timing - Check 09,Informed Consent Timing
+P064,Informed Consent Timing - Check 10,Informed Consent Timing
+P065,Informed Consent Timing - Check 11,Informed Consent Timing
+P066,Informed Consent Timing - Check 12,Informed Consent Timing
+P067,Informed Consent Timing - Check 13,Informed Consent Timing
+P068,Informed Consent Timing - Check 14,Informed Consent Timing
+P069,Informed Consent Timing - Check 15,Informed Consent Timing
+P070,Informed Consent Timing - Check 16,Informed Consent Timing
+P071,Informed Consent Timing - Check 17,Informed Consent Timing
+P072,Informed Consent Timing - Check 18,Informed Consent Timing
+P073,Lab Sample Handling Timing - Check 01,Lab Sample Handling Timing
+P074,Lab Sample Handling Timing - Check 02,Lab Sample Handling Timing
+P075,Lab Sample Handling Timing - Check 03,Lab Sample Handling Timing
+P076,Lab Sample Handling Timing - Check 04,Lab Sample Handling Timing
+P077,Lab Sample Handling Timing - Check 05,Lab Sample Handling Timing
+P078,Lab Sample Handling Timing - Check 06,Lab Sample Handling Timing
+P079,Lab Sample Handling Timing - Check 07,Lab Sample Handling Timing
+P080,Lab Sample Handling Timing - Check 08,Lab Sample Handling Timing
+P081,Lab Sample Handling Timing - Check 09,Lab Sample Handling Timing
+P082,Lab Sample Handling Timing - Check 10,Lab Sample Handling Timing
+P083,Lab Sample Handling Timing - Check 11,Lab Sample Handling Timing
+P084,Lab Sample Handling Timing - Check 12,Lab Sample Handling Timing
+P085,Lab Sample Handling Timing - Check 13,Lab Sample Handling Timing
+P086,Lab Sample Handling Timing - Check 14,Lab Sample Handling Timing
+P087,Lab Sample Handling Timing - Check 15,Lab Sample Handling Timing
+P088,Lab Sample Handling Timing - Check 16,Lab Sample Handling Timing
+P089,Lab Sample Handling Timing - Check 17,Lab Sample Handling Timing
+P090,Lab Sample Handling Timing - Check 18,Lab Sample Handling Timing
+P091,Concomitant Medication Documentation - Check 01,Concomitant Medication Documentation
+P092,Concomitant Medication Documentation - Check 02,Concomitant Medication Documentation
+P093,Concomitant Medication Documentation - Check 03,Concomitant Medication Documentation
+P094,Concomitant Medication Documentation - Check 04,Concomitant Medication Documentation
+P095,Concomitant Medication Documentation - Check 05,Concomitant Medication Documentation
+P096,Concomitant Medication Documentation - Check 06,Concomitant Medication Documentation
+P097,Concomitant Medication Documentation - Check 07,Concomitant Medication Documentation
+P098,Concomitant Medication Documentation - Check 08,Concomitant Medication Documentation
+P099,Concomitant Medication Documentation - Check 09,Concomitant Medication Documentation
+P100,Concomitant Medication Documentation - Check 10,Concomitant Medication Documentation
+P101,Concomitant Medication Documentation - Check 11,Concomitant Medication Documentation
+P102,Concomitant Medication Documentation - Check 12,Concomitant Medication Documentation
+P103,Concomitant Medication Documentation - Check 13,Concomitant Medication Documentation
+P104,Concomitant Medication Documentation - Check 14,Concomitant Medication Documentation
+P105,Concomitant Medication Documentation - Check 15,Concomitant Medication Documentation
+P106,Concomitant Medication Documentation - Check 16,Concomitant Medication Documentation
+P107,Concomitant Medication Documentation - Check 17,Concomitant Medication Documentation
+P108,Concomitant Medication Documentation - Check 18,Concomitant Medication Documentation
+P109,Adverse Event Reporting Timeliness - Check 01,Adverse Event Reporting Timeliness
+P110,Adverse Event Reporting Timeliness - Check 02,Adverse Event Reporting Timeliness
+P111,Adverse Event Reporting Timeliness - Check 03,Adverse Event Reporting Timeliness
+P112,Adverse Event Reporting Timeliness - Check 04,Adverse Event Reporting Timeliness
+P113,Adverse Event Reporting Timeliness - Check 05,Adverse Event Reporting Timeliness
+P114,Adverse Event Reporting Timeliness - Check 06,Adverse Event Reporting Timeliness
+P115,Adverse Event Reporting Timeliness - Check 07,Adverse Event Reporting Timeliness
+P116,Adverse Event Reporting Timeliness - Check 08,Adverse Event Reporting Timeliness
+P117,Adverse Event Reporting Timeliness - Check 09,Adverse Event Reporting Timeliness
+P118,Adverse Event Reporting Timeliness - Check 10,Adverse Event Reporting Timeliness
+P119,Adverse Event Reporting Timeliness - Check 11,Adverse Event Reporting Timeliness
+P120,Adverse Event Reporting Timeliness - Check 12,Adverse Event Reporting Timeliness
+P121,Adverse Event Reporting Timeliness - Check 13,Adverse Event Reporting Timeliness
+P122,Adverse Event Reporting Timeliness - Check 14,Adverse Event Reporting Timeliness
+P123,Adverse Event Reporting Timeliness - Check 15,Adverse Event Reporting Timeliness
+P124,Adverse Event Reporting Timeliness - Check 16,Adverse Event Reporting Timeliness
+P125,Adverse Event Reporting Timeliness - Check 17,Adverse Event Reporting Timeliness
+P126,Adverse Event Reporting Timeliness - Check 18,Adverse Event Reporting Timeliness
+P127,Source Document Verification - Check 01,Source Document Verification
+P128,Source Document Verification - Check 02,Source Document Verification
+P129,Source Document Verification - Check 03,Source Document Verification
+P130,Source Document Verification - Check 04,Source Document Verification
+P131,Source Document Verification - Check 05,Source Document Verification
+P132,Source Document Verification - Check 06,Source Document Verification
+P133,Source Document Verification - Check 07,Source Document Verification
+P134,Source Document Verification - Check 08,Source Document Verification
+P135,Source Document Verification - Check 09,Source Document Verification
+P136,Source Document Verification - Check 10,Source Document Verification
+P137,Source Document Verification - Check 11,Source Document Verification
+P138,Source Document Verification - Check 12,Source Document Verification
+P139,Source Document Verification - Check 13,Source Document Verification
+P140,Source Document Verification - Check 14,Source Document Verification
+P141,Source Document Verification - Check 15,Source Document Verification
+P142,Source Document Verification - Check 16,Source Document Verification
+P143,Source Document Verification - Check 17,Source Document Verification
+P144,Source Document Verification - Check 18,Source Document Verification

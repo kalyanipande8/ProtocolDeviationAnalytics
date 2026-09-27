@@ -1,0 +1,938 @@
+study_id,parameter_id,parameter_category,period,severity,investigation_time_before_hours,investigation_time_after_hours
+STUDY-01,P001,Visit Window Compliance,5,Critical,25.15,15.47
+STUDY-01,P001,Visit Window Compliance,6,Minor,6.64,2.91
+STUDY-01,P001,Visit Window Compliance,12,Major,12.51,9.85
+STUDY-01,P002,Visit Window Compliance,7,Minor,7.64,3.54
+STUDY-01,P003,Visit Window Compliance,2,Minor,4.21,3.22
+STUDY-01,P004,Visit Window Compliance,2,Major,8.96,8.27
+STUDY-01,P004,Visit Window Compliance,7,Minor,6.38,3.24
+STUDY-01,P005,Visit Window Compliance,1,Minor,6.36,3.84
+STUDY-01,P005,Visit Window Compliance,4,Minor,6.39,2.43
+STUDY-01,P005,Visit Window Compliance,11,Minor,5.62,3.84
+STUDY-01,P006,Visit Window Compliance,10,Minor,8.37,3.24
+STUDY-01,P007,Visit Window Compliance,7,Major,15.93,9.9
+STUDY-01,P008,Visit Window Compliance,6,Minor,5.71,4.48
+STUDY-01,P008,Visit Window Compliance,9,Minor,7.8,4.68
+STUDY-01,P009,Visit Window Compliance,1,Critical,28.98,23.98
+STUDY-01,P009,Visit Window Compliance,2,Minor,5.08,5.33
+STUDY-01,P009,Visit Window Compliance,9,Major,16.69,10.84
+STUDY-01,P009,Visit Window Compliance,12,Minor,5.52,4.21
+STUDY-01,P010,Visit Window Compliance,3,Major,18.99,5.91
+STUDY-01,P011,Visit Window Compliance,3,Minor,5.76,1.62
+STUDY-01,P012,Visit Window Compliance,1,Major,13.38,6.46
+STUDY-01,P012,Visit Window Compliance,3,Major,13.24,14.05
+STUDY-01,P012,Visit Window Compliance,12,Minor,8.58,2.23
+STUDY-01,P013,Visit Window Compliance,1,Minor,6.83,4.18
+STUDY-01,P013,Visit Window Compliance,7,Minor,5.49,3.64
+STUDY-01,P014,Visit Window Compliance,3,Minor,6.41,2.31
+STUDY-01,P014,Visit Window Compliance,4,Minor,4.45,3.63
+STUDY-01,P014,Visit Window Compliance,10,Minor,6.15,2.86
+STUDY-01,P016,Visit Window Compliance,3,Minor,4.81,3.4
+STUDY-01,P016,Visit Window Compliance,11,Minor,7.33,3.41
+STUDY-01,P016,Visit Window Compliance,12,Minor,8.43,2.87
+STUDY-01,P017,Visit Window Compliance,6,Minor,6.29,3.17
+STUDY-01,P017,Visit Window Compliance,9,Minor,6.88,2.8
+STUDY-01,P017,Visit Window Compliance,11,Major,20.75,4.69
+STUDY-01,P018,Visit Window Compliance,6,Minor,8.57,3.56
+STUDY-01,P025,Inclusion/Exclusion Criteria,12,Major,15.93,10.83
+STUDY-01,P027,Inclusion/Exclusion Criteria,6,Major,17.0,6.64
+STUDY-01,P027,Inclusion/Exclusion Criteria,10,Minor,6.9,5.1
+STUDY-01,P028,Inclusion/Exclusion Criteria,8,Major,10.89,12.42
+STUDY-01,P029,Inclusion/Exclusion Criteria,9,Critical,28.51,13.45
+STUDY-01,P032,Inclusion/Exclusion Criteria,4,Major,10.87,7.67
+STUDY-01,P034,Inclusion/Exclusion Criteria,11,Critical,13.29,13.51
+STUDY-01,P036,Inclusion/Exclusion Criteria,1,Major,13.08,5.94
+STUDY-01,P037,Dosing Schedule Adherence,6,Minor,7.12,3.29
+STUDY-01,P038,Dosing Schedule Adherence,4,Major,11.77,7.46
+STUDY-01,P039,Dosing Schedule Adherence,11,Critical,28.31,15.36
+STUDY-01,P040,Dosing Schedule Adherence,1,Minor,4.95,3.59
+STUDY-01,P041,Dosing Schedule Adherence,12,Major,13.82,5.81
+STUDY-01,P042,Dosing Schedule Adherence,10,Major,12.99,9.3
+STUDY-01,P043,Dosing Schedule Adherence,5,Minor,6.86,3.28
+STUDY-01,P043,Dosing Schedule Adherence,7,Major,16.37,6.13
+STUDY-01,P046,Dosing Schedule Adherence,2,Minor,4.58,3.26
+STUDY-01,P049,Dosing Schedule Adherence,5,Critical,35.73,15.7
+STUDY-01,P049,Dosing Schedule Adherence,7,Major,13.04,11.25
+STUDY-01,P049,Dosing Schedule Adherence,8,Minor,5.57,5.42
+STUDY-01,P050,Dosing Schedule Adherence,2,Minor,5.23,2.6
+STUDY-01,P050,Dosing Schedule Adherence,3,Major,13.42,7.61
+STUDY-01,P051,Dosing Schedule Adherence,3,Major,11.17,13.4
+STUDY-01,P051,Dosing Schedule Adherence,5,Minor,6.48,3.88
+STUDY-01,P051,Dosing Schedule Adherence,6,Minor,5.31,2.98
+STUDY-01,P051,Dosing Schedule Adherence,12,Critical,32.67,8.76
+STUDY-01,P053,Dosing Schedule Adherence,5,Minor,4.29,3.26
+STUDY-01,P054,Dosing Schedule Adherence,6,Minor,8.03,3.15
+STUDY-01,P055,Informed Consent Timing,7,Critical,28.7,15.18
+STUDY-01,P056,Informed Consent Timing,7,Critical,34.43,9.11
+STUDY-01,P058,Informed Consent Timing,11,Critical,30.78,14.33
+STUDY-01,P066,Informed Consent Timing,12,Minor,7.39,2.77
+STUDY-01,P068,Informed Consent Timing,12,Critical,26.16,14.69
+STUDY-01,P072,Informed Consent Timing,8,Major,10.49,5.52
+STUDY-01,P074,Lab Sample Handling Timing,5,Minor,5.13,3.59
+STUDY-01,P076,Lab Sample Handling Timing,11,Minor,4.86,3.19
+STUDY-01,P077,Lab Sample Handling Timing,12,Minor,3.17,3.16
+STUDY-01,P079,Lab Sample Handling Timing,3,Major,17.58,9.55
+STUDY-01,P079,Lab Sample Handling Timing,7,Major,13.7,8.61
+STUDY-01,P080,Lab Sample Handling Timing,6,Minor,4.76,4.89
+STUDY-01,P080,Lab Sample Handling Timing,7,Minor,9.1,3.62
+STUDY-01,P080,Lab Sample Handling Timing,8,Major,23.07,6.74
+STUDY-01,P081,Lab Sample Handling Timing,3,Minor,4.12,2.86
+STUDY-01,P082,Lab Sample Handling Timing,2,Minor,5.67,5.49
+STUDY-01,P083,Lab Sample Handling Timing,9,Minor,5.58,2.73
+STUDY-01,P084,Lab Sample Handling Timing,10,Minor,4.65,4.47
+STUDY-01,P085,Lab Sample Handling Timing,5,Minor,7.5,3.06
+STUDY-01,P085,Lab Sample Handling Timing,8,Minor,3.19,2.5
+STUDY-01,P086,Lab Sample Handling Timing,1,Minor,8.58,4.08
+STUDY-01,P086,Lab Sample Handling Timing,5,Minor,6.1,5.11
+STUDY-01,P086,Lab Sample Handling Timing,12,Minor,8.94,3.45
+STUDY-01,P088,Lab Sample Handling Timing,2,Major,13.94,6.94
+STUDY-01,P089,Lab Sample Handling Timing,6,Minor,5.57,2.19
+STUDY-01,P090,Lab Sample Handling Timing,4,Critical,16.31,8.59
+STUDY-01,P090,Lab Sample Handling Timing,6,Minor,7.63,2.12
+STUDY-01,P090,Lab Sample Handling Timing,8,Major,20.82,6.64
+STUDY-01,P090,Lab Sample Handling Timing,11,Major,20.08,7.38
+STUDY-01,P093,Concomitant Medication Documentation,5,Minor,3.65,4.6
+STUDY-01,P093,Concomitant Medication Documentation,10,Minor,8.1,2.69
+STUDY-01,P094,Concomitant Medication Documentation,7,Major,12.84,6.28
+STUDY-01,P094,Concomitant Medication Documentation,11,Minor,5.82,3.57
+STUDY-01,P095,Concomitant Medication Documentation,1,Major,12.77,4.43
+STUDY-01,P095,Concomitant Medication Documentation,2,Major,11.97,9.55
+STUDY-01,P095,Concomitant Medication Documentation,4,Major,13.27,7.46
+STUDY-01,P095,Concomitant Medication Documentation,9,Critical,19.95,12.78
+STUDY-01,P097,Concomitant Medication Documentation,7,Minor,8.11,2.49
+STUDY-01,P097,Concomitant Medication Documentation,11,Minor,7.08,3.52
+STUDY-01,P098,Concomitant Medication Documentation,5,Minor,6.37,2.84
+STUDY-01,P099,Concomitant Medication Documentation,4,Minor,5.47,3.48
+STUDY-01,P101,Concomitant Medication Documentation,3,Minor,5.22,3.77
+STUDY-01,P101,Concomitant Medication Documentation,4,Critical,28.97,23.27
+STUDY-01,P101,Concomitant Medication Documentation,6,Major,14.97,4.24
+STUDY-01,P104,Concomitant Medication Documentation,11,Minor,7.74,3.3
+STUDY-01,P107,Concomitant Medication Documentation,5,Minor,9.02,4.76
+STUDY-01,P109,Adverse Event Reporting Timeliness,3,Critical,22.72,17.8
+STUDY-01,P111,Adverse Event Reporting Timeliness,1,Major,11.92,8.13
+STUDY-01,P111,Adverse Event Reporting Timeliness,2,Minor,7.01,4.45
+STUDY-01,P114,Adverse Event Reporting Timeliness,3,Minor,7.34,3.55
+STUDY-01,P114,Adverse Event Reporting Timeliness,10,Critical,42.14,13.7
+STUDY-01,P118,Adverse Event Reporting Timeliness,11,Minor,3.59,2.25
+STUDY-01,P119,Adverse Event Reporting Timeliness,2,Major,19.16,7.96
+STUDY-01,P119,Adverse Event Reporting Timeliness,3,Major,14.56,7.02
+STUDY-01,P119,Adverse Event Reporting Timeliness,4,Critical,23.06,12.11
+STUDY-01,P119,Adverse Event Reporting Timeliness,12,Critical,29.06,14.71
+STUDY-01,P127,Source Document Verification,7,Minor,6.65,3.78
+STUDY-01,P127,Source Document Verification,9,Minor,5.36,2.21
+STUDY-01,P131,Source Document Verification,11,Minor,3.68,6.11
+STUDY-01,P132,Source Document Verification,1,Minor,8.22,4.65
+STUDY-01,P132,Source Document Verification,7,Major,11.64,8.14
+STUDY-01,P132,Source Document Verification,8,Minor,4.78,2.34
+STUDY-01,P133,Source Document Verification,9,Minor,5.12,4.63
+STUDY-01,P133,Source Document Verification,10,Minor,7.26,2.64
+STUDY-01,P134,Source Document Verification,7,Minor,5.53,4.13
+STUDY-01,P135,Source Document Verification,1,Major,12.0,8.28
+STUDY-01,P135,Source Document Verification,2,Major,15.41,8.91
+STUDY-01,P135,Source Document Verification,6,Major,14.89,6.79
+STUDY-01,P135,Source Document Verification,11,Minor,5.17,2.49
+STUDY-01,P138,Source Document Verification,1,Minor,3.66,3.38
+STUDY-01,P139,Source Document Verification,4,Minor,7.22,2.28
+STUDY-01,P139,Source Document Verification,8,Minor,6.41,4.16
+STUDY-01,P139,Source Document Verification,10,Minor,3.24,3.24
+STUDY-01,P140,Source Document Verification,3,Minor,8.47,3.96
+STUDY-01,P140,Source Document Verification,7,Minor,3.19,4.05
+STUDY-01,P141,Source Document Verification,1,Minor,4.88,4.08
+STUDY-01,P141,Source Document Verification,4,Minor,4.96,3.43
+STUDY-01,P141,Source Document Verification,10,Major,12.12,8.13
+STUDY-01,P143,Source Document Verification,3,Minor,5.15,3.29
+STUDY-01,P144,Source Document Verification,5,Minor,4.24,3.91
+STUDY-02,P001,Visit Window Compliance,3,Minor,6.26,2.07
+STUDY-02,P001,Visit Window Compliance,5,Major,17.48,7.76
+STUDY-02,P001,Visit Window Compliance,6,Minor,6.24,4.15
+STUDY-02,P001,Visit Window Compliance,12,Minor,6.49,4.49
+STUDY-02,P003,Visit Window Compliance,3,Critical,24.09,18.98
+STUDY-02,P003,Visit Window Compliance,5,Major,14.43,9.15
+STUDY-02,P003,Visit Window Compliance,8,Minor,6.61,4.56
+STUDY-02,P004,Visit Window Compliance,10,Minor,7.08,3.09
+STUDY-02,P005,Visit Window Compliance,5,Minor,5.04,3.44
+STUDY-02,P005,Visit Window Compliance,9,Minor,4.86,2.56
+STUDY-02,P005,Visit Window Compliance,10,Minor,2.81,2.13
+STUDY-02,P005,Visit Window Compliance,11,Minor,8.98,2.91
+STUDY-02,P005,Visit Window Compliance,12,Major,20.66,8.94
+STUDY-02,P006,Visit Window Compliance,6,Minor,5.93,2.17
+STUDY-02,P006,Visit Window Compliance,11,Minor,6.01,5.13
+STUDY-02,P007,Visit Window Compliance,9,Minor,8.34,3.72
+STUDY-02,P007,Visit Window Compliance,12,Major,9.98,6.18
+STUDY-02,P008,Visit Window Compliance,2,Minor,4.72,4.59
+STUDY-02,P008,Visit Window Compliance,4,Minor,8.45,3.65
+STUDY-02,P009,Visit Window Compliance,6,Minor,5.55,4.83
+STUDY-02,P009,Visit Window Compliance,9,Minor,4.53,3.53
+STUDY-02,P010,Visit Window Compliance,6,Minor,6.69,2.73
+STUDY-02,P011,Visit Window Compliance,1,Major,11.77,6.67
+STUDY-02,P011,Visit Window Compliance,9,Major,18.96,12.01
+STUDY-02,P012,Visit Window Compliance,10,Minor,6.17,3.25
+STUDY-02,P012,Visit Window Compliance,12,Major,11.9,8.12
+STUDY-02,P013,Visit Window Compliance,1,Minor,5.17,3.4
+STUDY-02,P013,Visit Window Compliance,11,Minor,6.62,3.13
+STUDY-02,P014,Visit Window Compliance,3,Minor,5.72,3.32
+STUDY-02,P014,Visit Window Compliance,6,Major,12.89,7.22
+STUDY-02,P014,Visit Window Compliance,7,Minor,7.14,1.94
+STUDY-02,P015,Visit Window Compliance,3,Major,19.51,8.4
+STUDY-02,P016,Visit Window Compliance,4,Major,16.14,9.59
+STUDY-02,P016,Visit Window Compliance,8,Minor,4.94,2.68
+STUDY-02,P016,Visit Window Compliance,10,Major,10.39,7.62
+STUDY-02,P017,Visit Window Compliance,1,Minor,7.05,2.97
+STUDY-02,P017,Visit Window Compliance,4,Minor,6.91,1.42
+STUDY-02,P018,Visit Window Compliance,6,Minor,5.42,4.5
+STUDY-02,P018,Visit Window Compliance,8,Minor,5.74,2.76
+STUDY-02,P018,Visit Window Compliance,9,Major,11.7,1.97
+STUDY-02,P018,Visit Window Compliance,10,Minor,4.48,4.4
+STUDY-02,P020,Inclusion/Exclusion Criteria,4,Major,11.96,7.18
+STUDY-02,P022,Inclusion/Exclusion Criteria,6,Minor,2.5,2.06
+STUDY-02,P023,Inclusion/Exclusion Criteria,8,Critical,33.74,17.41
+STUDY-02,P024,Inclusion/Exclusion Criteria,2,Critical,17.57,12.7
+STUDY-02,P024,Inclusion/Exclusion Criteria,5,Critical,25.81,10.57
+STUDY-02,P026,Inclusion/Exclusion Criteria,7,Critical,12.97,14.48
+STUDY-02,P026,Inclusion/Exclusion Criteria,9,Major,16.0,9.32
+STUDY-02,P027,Inclusion/Exclusion Criteria,12,Major,17.06,4.97
+STUDY-02,P028,Inclusion/Exclusion Criteria,7,Minor,6.09,3.25
+STUDY-02,P028,Inclusion/Exclusion Criteria,9,Major,13.69,7.69
+STUDY-02,P029,Inclusion/Exclusion Criteria,5,Critical,21.71,3.7
+STUDY-02,P029,Inclusion/Exclusion Criteria,6,Major,18.07,8.79
+STUDY-02,P030,Inclusion/Exclusion Criteria,11,Minor,3.77,3.89
+STUDY-02,P038,Dosing Schedule Adherence,6,Major,12.43,7.27
+STUDY-02,P040,Dosing Schedule Adherence,1,Major,11.31,9.21
+STUDY-02,P040,Dosing Schedule Adherence,10,Minor,4.8,2.53
+STUDY-02,P041,Dosing Schedule Adherence,5,Critical,33.36,14.41
+STUDY-02,P041,Dosing Schedule Adherence,11,Minor,5.78,4.08
+STUDY-02,P042,Dosing Schedule Adherence,1,Critical,21.66,13.32
+STUDY-02,P042,Dosing Schedule Adherence,9,Critical,27.99,9.27
+STUDY-02,P043,Dosing Schedule Adherence,3,Major,14.77,6.59
+STUDY-02,P044,Dosing Schedule Adherence,6,Major,16.99,9.23
+STUDY-02,P045,Dosing Schedule Adherence,3,Major,15.45,4.86
+STUDY-02,P045,Dosing Schedule Adherence,8,Critical,25.33,10.64
+STUDY-02,P045,Dosing Schedule Adherence,9,Major,13.87,3.42
+STUDY-02,P046,Dosing Schedule Adherence,2,Critical,15.98,19.56
+STUDY-02,P047,Dosing Schedule Adherence,5,Major,15.29,7.4
+STUDY-02,P047,Dosing Schedule Adherence,10,Major,10.82,5.92
+STUDY-02,P049,Dosing Schedule Adherence,5,Major,14.7,7.42
+STUDY-02,P049,Dosing Schedule Adherence,12,Minor,8.32,3.32
+STUDY-02,P050,Dosing Schedule Adherence,4,Critical,26.38,9.85
+STUDY-02,P050,Dosing Schedule Adherence,10,Critical,23.66,15.75
+STUDY-02,P051,Dosing Schedule Adherence,7,Critical,23.58,13.25
+STUDY-02,P052,Dosing Schedule Adherence,3,Major,15.14,11.2
+STUDY-02,P052,Dosing Schedule Adherence,4,Minor,6.22,4.48
+STUDY-02,P052,Dosing Schedule Adherence,5,Major,16.18,10.32
+STUDY-02,P053,Dosing Schedule Adherence,3,Minor,5.09,3.3
+STUDY-02,P054,Dosing Schedule Adherence,8,Minor,5.7,3.96
+STUDY-02,P061,Informed Consent Timing,2,Major,16.77,8.37
+STUDY-02,P063,Informed Consent Timing,8,Critical,31.7,12.96
+STUDY-02,P068,Informed Consent Timing,9,Critical,31.75,18.91
+STUDY-02,P069,Informed Consent Timing,11,Critical,30.4,15.59
+STUDY-02,P071,Informed Consent Timing,9,Critical,30.64,11.71
+STUDY-02,P072,Informed Consent Timing,10,Critical,27.29,16.21
+STUDY-02,P073,Lab Sample Handling Timing,1,Minor,4.01,3.89
+STUDY-02,P073,Lab Sample Handling Timing,8,Minor,4.13,3.11
+STUDY-02,P074,Lab Sample Handling Timing,4,Minor,6.06,2.84
+STUDY-02,P074,Lab Sample Handling Timing,8,Major,14.29,8.26
+STUDY-02,P074,Lab Sample Handling Timing,12,Minor,4.77,3.97
+STUDY-02,P075,Lab Sample Handling Timing,1,Critical,21.03,23.71
+STUDY-02,P075,Lab Sample Handling Timing,7,Minor,5.84,2.46
+STUDY-02,P076,Lab Sample Handling Timing,2,Major,10.55,10.45
+STUDY-02,P076,Lab Sample Handling Timing,4,Minor,5.39,2.29
+STUDY-02,P076,Lab Sample Handling Timing,5,Minor,7.28,3.12
+STUDY-02,P076,Lab Sample Handling Timing,9,Critical,30.25,18.61
+STUDY-02,P077,Lab Sample Handling Timing,4,Major,14.96,12.98
+STUDY-02,P077,Lab Sample Handling Timing,5,Minor,3.41,2.77
+STUDY-02,P077,Lab Sample Handling Timing,8,Minor,5.62,5.45
+STUDY-02,P078,Lab Sample Handling Timing,4,Critical,37.69,19.94
+STUDY-02,P078,Lab Sample Handling Timing,7,Minor,4.81,2.89
+STUDY-02,P078,Lab Sample Handling Timing,8,Critical,20.61,12.13
+STUDY-02,P078,Lab Sample Handling Timing,12,Major,19.22,7.63
+STUDY-02,P079,Lab Sample Handling Timing,2,Minor,5.83,4.15
+STUDY-02,P079,Lab Sample Handling Timing,12,Minor,3.5,3.53
+STUDY-02,P080,Lab Sample Handling Timing,8,Minor,4.35,3.22
+STUDY-02,P081,Lab Sample Handling Timing,1,Minor,5.12,2.92
+STUDY-02,P082,Lab Sample Handling Timing,4,Minor,6.34,3.67
+STUDY-02,P082,Lab Sample Handling Timing,5,Major,13.23,8.87
+STUDY-02,P082,Lab Sample Handling Timing,7,Critical,20.35,17.65
+STUDY-02,P083,Lab Sample Handling Timing,6,Major,13.28,7.14
+STUDY-02,P083,Lab Sample Handling Timing,7,Major,11.22,7.63
+STUDY-02,P083,Lab Sample Handling Timing,8,Minor,8.81,3.42
+STUDY-02,P083,Lab Sample Handling Timing,10,Major,9.99,9.99
+STUDY-02,P084,Lab Sample Handling Timing,4,Major,12.35,8.7
+STUDY-02,P084,Lab Sample Handling Timing,5,Minor,5.09,4.59
+STUDY-02,P084,Lab Sample Handling Timing,7,Major,11.93,10.96
+STUDY-02,P085,Lab Sample Handling Timing,1,Major,10.33,7.53
+STUDY-02,P085,Lab Sample Handling Timing,7,Minor,8.1,3.63
+STUDY-02,P085,Lab Sample Handling Timing,8,Minor,9.41,3.25
+STUDY-02,P085,Lab Sample Handling Timing,9,Minor,6.39,5.14
+STUDY-02,P086,Lab Sample Handling Timing,5,Minor,3.73,2.06
+STUDY-02,P086,Lab Sample Handling Timing,9,Major,11.22,9.77
+STUDY-02,P086,Lab Sample Handling Timing,10,Minor,3.59,4.0
+STUDY-02,P089,Lab Sample Handling Timing,1,Major,15.84,12.21
+STUDY-02,P089,Lab Sample Handling Timing,9,Major,17.66,8.86
+STUDY-02,P091,Concomitant Medication Documentation,3,Minor,8.04,3.95
+STUDY-02,P091,Concomitant Medication Documentation,4,Minor,5.31,2.48
+STUDY-02,P091,Concomitant Medication Documentation,6,Minor,5.15,3.45
+STUDY-02,P092,Concomitant Medication Documentation,9,Major,14.61,3.79
+STUDY-02,P095,Concomitant Medication Documentation,2,Major,13.23,8.18
+STUDY-02,P096,Concomitant Medication Documentation,2,Minor,6.82,4.9
+STUDY-02,P096,Concomitant Medication Documentation,12,Minor,6.28,2.69
+STUDY-02,P098,Concomitant Medication Documentation,10,Critical,14.18,17.67
+STUDY-02,P098,Concomitant Medication Documentation,12,Major,10.96,9.88
+STUDY-02,P099,Concomitant Medication Documentation,3,Major,18.89,4.99
+STUDY-02,P100,Concomitant Medication Documentation,2,Minor,6.83,4.6
+STUDY-02,P100,Concomitant Medication Documentation,3,Minor,7.53,1.66
+STUDY-02,P101,Concomitant Medication Documentation,9,Major,11.01,5.52
+STUDY-02,P101,Concomitant Medication Documentation,12,Minor,6.79,3.84
+STUDY-02,P102,Concomitant Medication Documentation,3,Minor,1.95,3.22
+STUDY-02,P102,Concomitant Medication Documentation,7,Minor,7.2,3.61
+STUDY-02,P102,Concomitant Medication Documentation,11,Minor,6.22,3.16
+STUDY-02,P105,Concomitant Medication Documentation,12,Major,10.29,8.09
+STUDY-02,P106,Concomitant Medication Documentation,3,Minor,6.08,4.02
+STUDY-02,P106,Concomitant Medication Documentation,12,Minor,7.04,3.55
+STUDY-02,P107,Concomitant Medication Documentation,12,Major,17.83,7.36
+STUDY-02,P108,Concomitant Medication Documentation,1,Major,8.95,9.09
+STUDY-02,P108,Concomitant Medication Documentation,11,Minor,6.19,3.91
+STUDY-02,P109,Adverse Event Reporting Timeliness,4,Minor,4.1,5.04
+STUDY-02,P109,Adverse Event Reporting Timeliness,5,Minor,7.07,3.23
+STUDY-02,P109,Adverse Event Reporting Timeliness,12,Major,10.73,10.31
+STUDY-02,P110,Adverse Event Reporting Timeliness,7,Critical,18.84,23.61
+STUDY-02,P111,Adverse Event Reporting Timeliness,6,Critical,22.01,21.57
+STUDY-02,P113,Adverse Event Reporting Timeliness,3,Critical,24.8,21.04
+STUDY-02,P114,Adverse Event Reporting Timeliness,3,Critical,21.22,15.15
+STUDY-02,P114,Adverse Event Reporting Timeliness,9,Critical,31.23,17.58
+STUDY-02,P118,Adverse Event Reporting Timeliness,7,Major,17.85,7.13
+STUDY-02,P118,Adverse Event Reporting Timeliness,11,Minor,6.13,4.57
+STUDY-02,P119,Adverse Event Reporting Timeliness,10,Major,11.53,9.28
+STUDY-02,P121,Adverse Event Reporting Timeliness,4,Minor,5.67,3.66
+STUDY-02,P121,Adverse Event Reporting Timeliness,12,Minor,6.13,2.79
+STUDY-02,P122,Adverse Event Reporting Timeliness,7,Minor,5.61,3.61
+STUDY-02,P123,Adverse Event Reporting Timeliness,10,Major,13.64,11.31
+STUDY-02,P128,Source Document Verification,8,Minor,7.51,3.73
+STUDY-02,P129,Source Document Verification,8,Minor,4.86,2.76
+STUDY-02,P130,Source Document Verification,10,Minor,8.96,2.6
+STUDY-02,P133,Source Document Verification,2,Minor,6.17,3.79
+STUDY-02,P133,Source Document Verification,7,Minor,5.53,2.61
+STUDY-02,P133,Source Document Verification,8,Minor,4.82,3.0
+STUDY-02,P134,Source Document Verification,2,Major,11.52,10.82
+STUDY-02,P134,Source Document Verification,10,Minor,5.99,3.02
+STUDY-02,P136,Source Document Verification,3,Minor,6.16,4.06
+STUDY-02,P136,Source Document Verification,4,Minor,5.48,4.26
+STUDY-02,P136,Source Document Verification,10,Minor,4.09,4.5
+STUDY-02,P136,Source Document Verification,11,Minor,5.99,3.44
+STUDY-02,P137,Source Document Verification,2,Minor,4.96,2.41
+STUDY-02,P137,Source Document Verification,9,Critical,15.17,12.2
+STUDY-02,P137,Source Document Verification,10,Minor,6.88,2.64
+STUDY-02,P138,Source Document Verification,5,Minor,3.68,2.69
+STUDY-02,P138,Source Document Verification,6,Minor,5.42,3.18
+STUDY-02,P139,Source Document Verification,3,Minor,5.81,4.38
+STUDY-02,P139,Source Document Verification,9,Minor,7.87,5.22
+STUDY-02,P141,Source Document Verification,2,Minor,3.56,2.74
+STUDY-02,P141,Source Document Verification,5,Minor,7.05,3.08
+STUDY-02,P142,Source Document Verification,1,Minor,7.29,3.66
+STUDY-02,P142,Source Document Verification,12,Minor,8.37,4.39
+STUDY-02,P143,Source Document Verification,7,Minor,7.59,3.12
+STUDY-02,P144,Source Document Verification,2,Minor,5.85,3.21
+STUDY-02,P144,Source Document Verification,6,Major,8.73,11.11
+STUDY-02,P144,Source Document Verification,8,Minor,7.12,3.18
+STUDY-03,P001,Visit Window Compliance,9,Minor,7.96,2.93
+STUDY-03,P002,Visit Window Compliance,8,Minor,3.24,4.36
+STUDY-03,P002,Visit Window Compliance,11,Minor,4.08,3.31
+STUDY-03,P003,Visit Window Compliance,4,Minor,6.31,3.82
+STUDY-03,P004,Visit Window Compliance,12,Minor,7.27,3.99
+STUDY-03,P005,Visit Window Compliance,6,Major,15.92,6.51
+STUDY-03,P005,Visit Window Compliance,9,Minor,6.44,2.17
+STUDY-03,P006,Visit Window Compliance,4,Minor,8.34,2.26
+STUDY-03,P007,Visit Window Compliance,2,Minor,5.48,2.33
+STUDY-03,P007,Visit Window Compliance,4,Minor,4.9,3.49
+STUDY-03,P007,Visit Window Compliance,6,Major,12.15,10.44
+STUDY-03,P007,Visit Window Compliance,11,Minor,6.34,3.08
+STUDY-03,P008,Visit Window Compliance,5,Minor,5.8,4.54
+STUDY-03,P008,Visit Window Compliance,11,Minor,7.36,2.49
+STUDY-03,P009,Visit Window Compliance,11,Minor,4.98,3.89
+STUDY-03,P010,Visit Window Compliance,2,Minor,6.53,2.57
+STUDY-03,P010,Visit Window Compliance,6,Minor,7.12,2.7
+STUDY-03,P010,Visit Window Compliance,8,Minor,7.96,3.94
+STUDY-03,P011,Visit Window Compliance,2,Minor,4.3,3.02
+STUDY-03,P011,Visit Window Compliance,6,Minor,5.18,3.62
+STUDY-03,P012,Visit Window Compliance,7,Minor,5.69,2.48
+STUDY-03,P012,Visit Window Compliance,8,Minor,3.91,3.96
+STUDY-03,P013,Visit Window Compliance,5,Minor,6.43,3.57
+STUDY-03,P013,Visit Window Compliance,10,Major,14.95,6.86
+STUDY-03,P014,Visit Window Compliance,5,Minor,6.28,5.69
+STUDY-03,P014,Visit Window Compliance,12,Minor,7.76,3.23
+STUDY-03,P017,Visit Window Compliance,4,Critical,22.6,4.3
+STUDY-03,P017,Visit Window Compliance,10,Minor,7.6,4.16
+STUDY-03,P018,Visit Window Compliance,3,Minor,5.18,2.23
+STUDY-03,P018,Visit Window Compliance,12,Minor,4.27,3.87
+STUDY-03,P019,Inclusion/Exclusion Criteria,4,Major,13.69,9.52
+STUDY-03,P021,Inclusion/Exclusion Criteria,8,Major,14.3,10.08
+STUDY-03,P022,Inclusion/Exclusion Criteria,2,Critical,28.4,18.2
+STUDY-03,P027,Inclusion/Exclusion Criteria,1,Major,6.69,5.61
+STUDY-03,P029,Inclusion/Exclusion Criteria,1,Major,12.72,10.31
+STUDY-03,P030,Inclusion/Exclusion Criteria,5,Major,20.58,7.79
+STUDY-03,P031,Inclusion/Exclusion Criteria,2,Major,11.86,4.15
+STUDY-03,P032,Inclusion/Exclusion Criteria,1,Major,17.02,7.0
+STUDY-03,P033,Inclusion/Exclusion Criteria,8,Minor,10.44,2.84
+STUDY-03,P035,Inclusion/Exclusion Criteria,2,Major,21.37,9.64
+STUDY-03,P041,Dosing Schedule Adherence,10,Major,10.4,8.59
+STUDY-03,P043,Dosing Schedule Adherence,8,Major,16.7,7.66
+STUDY-03,P043,Dosing Schedule Adherence,11,Minor,7.26,4.19
+STUDY-03,P045,Dosing Schedule Adherence,4,Critical,29.88,15.02
+STUDY-03,P046,Dosing Schedule Adherence,3,Major,9.89,7.96
+STUDY-03,P048,Dosing Schedule Adherence,2,Minor,6.26,1.85
+STUDY-03,P048,Dosing Schedule Adherence,3,Major,14.59,7.92
+STUDY-03,P050,Dosing Schedule Adherence,3,Minor,4.06,3.19
+STUDY-03,P051,Dosing Schedule Adherence,12,Critical,23.97,22.36
+STUDY-03,P053,Dosing Schedule Adherence,4,Major,14.77,10.22
+STUDY-03,P054,Dosing Schedule Adherence,6,Major,13.59,4.32
+STUDY-03,P054,Dosing Schedule Adherence,10,Major,16.35,6.78
+STUDY-03,P057,Informed Consent Timing,1,Major,12.83,5.98
+STUDY-03,P058,Informed Consent Timing,8,Major,14.25,10.28
+STUDY-03,P058,Informed Consent Timing,10,Critical,32.06,21.06
+STUDY-03,P058,Informed Consent Timing,11,Major,20.05,3.97
+STUDY-03,P060,Informed Consent Timing,4,Minor,4.21,1.91
+STUDY-03,P061,Informed Consent Timing,2,Major,16.21,6.71
+STUDY-03,P061,Informed Consent Timing,9,Major,12.29,7.68
+STUDY-03,P067,Informed Consent Timing,11,Critical,28.49,9.48
+STUDY-03,P073,Lab Sample Handling Timing,5,Minor,4.11,3.48
+STUDY-03,P074,Lab Sample Handling Timing,5,Minor,7.8,3.46
+STUDY-03,P075,Lab Sample Handling Timing,3,Major,11.23,3.76
+STUDY-03,P076,Lab Sample Handling Timing,5,Critical,32.19,12.31
+STUDY-03,P076,Lab Sample Handling Timing,9,Critical,18.54,8.61
+STUDY-03,P077,Lab Sample Handling Timing,6,Major,8.96,6.17
+STUDY-03,P078,Lab Sample Handling Timing,6,Minor,5.64,2.43
+STUDY-03,P079,Lab Sample Handling Timing,1,Major,14.65,7.62
+STUDY-03,P079,Lab Sample Handling Timing,3,Major,21.78,4.66
+STUDY-03,P079,Lab Sample Handling Timing,6,Major,14.57,8.47
+STUDY-03,P080,Lab Sample Handling Timing,2,Minor,4.45,3.56
+STUDY-03,P081,Lab Sample Handling Timing,5,Minor,7.15,3.56
+STUDY-03,P081,Lab Sample Handling Timing,6,Major,18.85,3.7
+STUDY-03,P081,Lab Sample Handling Timing,12,Minor,4.74,4.76
+STUDY-03,P082,Lab Sample Handling Timing,1,Critical,31.93,17.12
+STUDY-03,P083,Lab Sample Handling Timing,11,Critical,34.02,7.85
+STUDY-03,P084,Lab Sample Handling Timing,8,Minor,7.19,4.41
+STUDY-03,P085,Lab Sample Handling Timing,4,Minor,5.01,5.77
+STUDY-03,P085,Lab Sample Handling Timing,11,Minor,6.29,1.57
+STUDY-03,P087,Lab Sample Handling Timing,7,Minor,6.57,2.85
+STUDY-03,P088,Lab Sample Handling Timing,1,Major,18.08,9.23
+STUDY-03,P088,Lab Sample Handling Timing,4,Minor,5.1,4.79
+STUDY-03,P088,Lab Sample Handling Timing,5,Major,17.29,6.44
+STUDY-03,P088,Lab Sample Handling Timing,11,Minor,5.77,3.93
+STUDY-03,P089,Lab Sample Handling Timing,1,Major,12.73,7.44
+STUDY-03,P089,Lab Sample Handling Timing,3,Minor,6.06,2.55
+STUDY-03,P089,Lab Sample Handling Timing,5,Minor,2.65,3.69
+STUDY-03,P089,Lab Sample Handling Timing,8,Minor,3.02,2.62
+STUDY-03,P090,Lab Sample Handling Timing,2,Minor,3.34,2.05
+STUDY-03,P091,Concomitant Medication Documentation,1,Minor,6.64,3.29
+STUDY-03,P092,Concomitant Medication Documentation,10,Minor,5.61,2.34
+STUDY-03,P093,Concomitant Medication Documentation,9,Major,11.7,8.88
+STUDY-03,P094,Concomitant Medication Documentation,3,Minor,5.92,4.2
+STUDY-03,P094,Concomitant Medication Documentation,7,Minor,7.45,3.26
+STUDY-03,P094,Concomitant Medication Documentation,9,Minor,3.22,2.82
+STUDY-03,P094,Concomitant Medication Documentation,10,Minor,5.85,2.8
+STUDY-03,P096,Concomitant Medication Documentation,8,Minor,4.42,3.54
+STUDY-03,P096,Concomitant Medication Documentation,11,Minor,9.65,3.06
+STUDY-03,P097,Concomitant Medication Documentation,1,Minor,6.0,2.34
+STUDY-03,P097,Concomitant Medication Documentation,3,Minor,7.87,4.24
+STUDY-03,P098,Concomitant Medication Documentation,5,Major,16.82,10.88
+STUDY-03,P098,Concomitant Medication Documentation,6,Critical,23.22,13.94
+STUDY-03,P100,Concomitant Medication Documentation,9,Major,19.98,9.4
+STUDY-03,P102,Concomitant Medication Documentation,9,Major,6.23,9.04
+STUDY-03,P103,Concomitant Medication Documentation,7,Major,11.96,9.94
+STUDY-03,P103,Concomitant Medication Documentation,9,Minor,6.61,1.97
+STUDY-03,P104,Concomitant Medication Documentation,3,Minor,6.4,3.66
+STUDY-03,P106,Concomitant Medication Documentation,1,Minor,6.55,3.98
+STUDY-03,P106,Concomitant Medication Documentation,2,Critical,35.72,16.64
+STUDY-03,P106,Concomitant Medication Documentation,4,Major,14.08,10.45
+STUDY-03,P106,Concomitant Medication Documentation,6,Major,21.85,9.98
+STUDY-03,P108,Concomitant Medication Documentation,1,Major,14.72,9.0
+STUDY-03,P108,Concomitant Medication Documentation,6,Critical,27.66,15.15
+STUDY-03,P109,Adverse Event Reporting Timeliness,6,Major,21.58,6.6
+STUDY-03,P109,Adverse Event Reporting Timeliness,12,Major,18.04,7.86
+STUDY-03,P110,Adverse Event Reporting Timeliness,4,Minor,3.78,3.32
+STUDY-03,P110,Adverse Event Reporting Timeliness,12,Major,12.09,9.29
+STUDY-03,P112,Adverse Event Reporting Timeliness,1,Major,14.32,6.05
+STUDY-03,P113,Adverse Event Reporting Timeliness,5,Major,19.15,10.33
+STUDY-03,P113,Adverse Event Reporting Timeliness,10,Major,19.55,8.6
+STUDY-03,P115,Adverse Event Reporting Timeliness,4,Critical,25.77,17.73
+STUDY-03,P115,Adverse Event Reporting Timeliness,10,Critical,22.25,15.57
+STUDY-03,P116,Adverse Event Reporting Timeliness,9,Minor,5.74,2.21
+STUDY-03,P117,Adverse Event Reporting Timeliness,11,Minor,6.19,3.1
+STUDY-03,P118,Adverse Event Reporting Timeliness,6,Major,13.15,8.86
+STUDY-03,P118,Adverse Event Reporting Timeliness,12,Minor,7.91,2.74
+STUDY-03,P119,Adverse Event Reporting Timeliness,4,Major,12.82,6.57
+STUDY-03,P120,Adverse Event Reporting Timeliness,12,Minor,4.75,2.96
+STUDY-03,P121,Adverse Event Reporting Timeliness,2,Major,13.31,9.31
+STUDY-03,P123,Adverse Event Reporting Timeliness,8,Minor,6.48,2.56
+STUDY-03,P125,Adverse Event Reporting Timeliness,5,Major,18.53,10.04
+STUDY-03,P126,Adverse Event Reporting Timeliness,5,Major,10.85,10.6
+STUDY-03,P127,Source Document Verification,5,Major,15.14,7.8
+STUDY-03,P129,Source Document Verification,3,Minor,6.54,3.46
+STUDY-03,P129,Source Document Verification,8,Major,15.91,8.5
+STUDY-03,P131,Source Document Verification,1,Minor,5.49,1.72
+STUDY-03,P131,Source Document Verification,2,Major,15.85,7.36
+STUDY-03,P131,Source Document Verification,6,Minor,7.17,3.9
+STUDY-03,P131,Source Document Verification,10,Major,12.78,10.2
+STUDY-03,P131,Source Document Verification,11,Major,14.72,8.45
+STUDY-03,P133,Source Document Verification,6,Minor,5.79,4.94
+STUDY-03,P138,Source Document Verification,10,Critical,21.36,13.86
+STUDY-03,P141,Source Document Verification,2,Minor,4.14,4.11
+STUDY-03,P141,Source Document Verification,7,Major,11.96,7.17
+STUDY-03,P142,Source Document Verification,6,Minor,5.22,3.53
+STUDY-04,P002,Visit Window Compliance,5,Minor,4.12,1.53
+STUDY-04,P003,Visit Window Compliance,5,Critical,28.98,7.11
+STUDY-04,P003,Visit Window Compliance,7,Major,16.99,11.28
+STUDY-04,P004,Visit Window Compliance,4,Major,13.43,10.76
+STUDY-04,P004,Visit Window Compliance,7,Minor,5.96,4.87
+STUDY-04,P004,Visit Window Compliance,8,Minor,5.32,1.42
+STUDY-04,P005,Visit Window Compliance,2,Minor,5.88,4.97
+STUDY-04,P005,Visit Window Compliance,3,Minor,6.8,3.03
+STUDY-04,P005,Visit Window Compliance,6,Minor,6.49,4.32
+STUDY-04,P006,Visit Window Compliance,4,Minor,5.87,5.76
+STUDY-04,P006,Visit Window Compliance,9,Minor,5.22,4.35
+STUDY-04,P006,Visit Window Compliance,10,Major,16.67,6.7
+STUDY-04,P006,Visit Window Compliance,12,Major,12.51,10.19
+STUDY-04,P008,Visit Window Compliance,6,Minor,6.22,3.77
+STUDY-04,P009,Visit Window Compliance,6,Minor,3.55,4.05
+STUDY-04,P009,Visit Window Compliance,8,Major,15.01,7.99
+STUDY-04,P009,Visit Window Compliance,10,Minor,6.54,3.12
+STUDY-04,P010,Visit Window Compliance,1,Critical,22.15,14.17
+STUDY-04,P010,Visit Window Compliance,7,Minor,5.3,5.38
+STUDY-04,P011,Visit Window Compliance,1,Major,17.19,6.15
+STUDY-04,P011,Visit Window Compliance,3,Major,21.13,7.24
+STUDY-04,P011,Visit Window Compliance,5,Major,14.1,9.94
+STUDY-04,P011,Visit Window Compliance,7,Minor,3.05,3.27
+STUDY-04,P012,Visit Window Compliance,9,Major,11.99,8.54
+STUDY-04,P012,Visit Window Compliance,12,Major,15.3,7.96
+STUDY-04,P013,Visit Window Compliance,4,Minor,5.81,4.41
+STUDY-04,P013,Visit Window Compliance,5,Minor,6.45,3.52
+STUDY-04,P014,Visit Window Compliance,4,Major,14.52,11.85
+STUDY-04,P014,Visit Window Compliance,8,Major,14.6,7.08
+STUDY-04,P014,Visit Window Compliance,11,Minor,3.14,2.23
+STUDY-04,P015,Visit Window Compliance,2,Minor,5.3,3.39
+STUDY-04,P016,Visit Window Compliance,2,Minor,5.17,3.79
+STUDY-04,P016,Visit Window Compliance,10,Critical,22.3,11.63
+STUDY-04,P017,Visit Window Compliance,3,Minor,6.92,4.67
+STUDY-04,P017,Visit Window Compliance,8,Minor,4.34,3.69
+STUDY-04,P017,Visit Window Compliance,11,Major,7.33,5.13
+STUDY-04,P018,Visit Window Compliance,2,Minor,5.12,4.47
+STUDY-04,P019,Inclusion/Exclusion Criteria,11,Critical,20.94,12.0
+STUDY-04,P022,Inclusion/Exclusion Criteria,12,Major,14.13,8.2
+STUDY-04,P023,Inclusion/Exclusion Criteria,10,Major,11.25,12.15
+STUDY-04,P026,Inclusion/Exclusion Criteria,3,Major,13.07,8.35
+STUDY-04,P026,Inclusion/Exclusion Criteria,9,Major,12.59,9.01
+STUDY-04,P028,Inclusion/Exclusion Criteria,3,Major,18.32,11.5
+STUDY-04,P034,Inclusion/Exclusion Criteria,7,Critical,21.05,19.23
+STUDY-04,P035,Inclusion/Exclusion Criteria,4,Minor,6.82,4.33
+STUDY-04,P036,Inclusion/Exclusion Criteria,9,Minor,5.86,3.32
+STUDY-04,P036,Inclusion/Exclusion Criteria,11,Critical,32.08,18.68
+STUDY-04,P037,Dosing Schedule Adherence,1,Minor,8.35,3.65
+STUDY-04,P037,Dosing Schedule Adherence,5,Major,13.63,3.13
+STUDY-04,P037,Dosing Schedule Adherence,8,Minor,3.58,3.14
+STUDY-04,P037,Dosing Schedule Adherence,11,Major,10.15,9.77
+STUDY-04,P038,Dosing Schedule Adherence,3,Minor,4.03,3.04
+STUDY-04,P039,Dosing Schedule Adherence,8,Minor,5.31,4.53
+STUDY-04,P042,Dosing Schedule Adherence,7,Minor,5.09,3.87
+STUDY-04,P042,Dosing Schedule Adherence,8,Minor,6.29,4.27
+STUDY-04,P043,Dosing Schedule Adherence,11,Critical,31.53,14.95
+STUDY-04,P045,Dosing Schedule Adherence,7,Critical,14.97,14.21
+STUDY-04,P047,Dosing Schedule Adherence,6,Major,13.93,8.7
+STUDY-04,P047,Dosing Schedule Adherence,9,Minor,4.89,4.47
+STUDY-04,P048,Dosing Schedule Adherence,4,Major,14.05,6.25
+STUDY-04,P049,Dosing Schedule Adherence,7,Critical,23.02,22.35
+STUDY-04,P049,Dosing Schedule Adherence,9,Minor,7.0,4.39
+STUDY-04,P050,Dosing Schedule Adherence,3,Major,10.35,6.72
+STUDY-04,P050,Dosing Schedule Adherence,11,Minor,4.98,3.64
+STUDY-04,P053,Dosing Schedule Adherence,2,Major,13.39,7.13
+STUDY-04,P053,Dosing Schedule Adherence,4,Critical,23.63,12.09
+STUDY-04,P053,Dosing Schedule Adherence,6,Major,13.37,10.38
+STUDY-04,P053,Dosing Schedule Adherence,12,Minor,3.73,3.78
+STUDY-04,P054,Dosing Schedule Adherence,7,Minor,8.07,3.32
+STUDY-04,P057,Informed Consent Timing,7,Minor,5.21,4.28
+STUDY-04,P059,Informed Consent Timing,10,Major,10.56,8.07
+STUDY-04,P062,Informed Consent Timing,10,Major,10.36,4.32
+STUDY-04,P063,Informed Consent Timing,12,Critical,25.01,10.32
+STUDY-04,P066,Informed Consent Timing,2,Major,13.96,10.38
+STUDY-04,P066,Informed Consent Timing,9,Critical,38.05,15.43
+STUDY-04,P067,Informed Consent Timing,10,Critical,32.62,16.58
+STUDY-04,P067,Informed Consent Timing,11,Major,12.66,4.21
+STUDY-04,P069,Informed Consent Timing,6,Major,19.69,5.99
+STUDY-04,P070,Informed Consent Timing,3,Major,18.84,9.21
+STUDY-04,P071,Informed Consent Timing,9,Minor,4.54,3.75
+STUDY-04,P072,Informed Consent Timing,8,Major,21.47,11.24
+STUDY-04,P073,Lab Sample Handling Timing,8,Minor,5.23,2.86
+STUDY-04,P074,Lab Sample Handling Timing,8,Minor,6.15,3.34
+STUDY-04,P074,Lab Sample Handling Timing,9,Major,18.2,9.62
+STUDY-04,P075,Lab Sample Handling Timing,1,Minor,3.46,3.88
+STUDY-04,P075,Lab Sample Handling Timing,3,Minor,5.73,3.51
+STUDY-04,P075,Lab Sample Handling Timing,4,Major,14.87,10.55
+STUDY-04,P075,Lab Sample Handling Timing,5,Critical,32.36,12.25
+STUDY-04,P076,Lab Sample Handling Timing,11,Minor,5.91,3.09
+STUDY-04,P077,Lab Sample Handling Timing,12,Minor,3.48,3.38
+STUDY-04,P078,Lab Sample Handling Timing,3,Major,20.46,4.64
+STUDY-04,P078,Lab Sample Handling Timing,6,Minor,5.96,3.43
+STUDY-04,P078,Lab Sample Handling Timing,9,Critical,27.87,11.45
+STUDY-04,P078,Lab Sample Handling Timing,12,Minor,3.86,2.28
+STUDY-04,P079,Lab Sample Handling Timing,4,Minor,8.0,2.63
+STUDY-04,P079,Lab Sample Handling Timing,7,Minor,5.25,5.31
+STUDY-04,P079,Lab Sample Handling Timing,10,Minor,4.9,3.78
+STUDY-04,P081,Lab Sample Handling Timing,4,Major,17.72,10.18
+STUDY-04,P081,Lab Sample Handling Timing,7,Minor,4.0,2.86
+STUDY-04,P081,Lab Sample Handling Timing,12,Minor,6.45,5.16
+STUDY-04,P083,Lab Sample Handling Timing,2,Minor,4.86,3.05
+STUDY-04,P083,Lab Sample Handling Timing,7,Minor,6.63,4.02
+STUDY-04,P083,Lab Sample Handling Timing,9,Minor,7.02,2.74
+STUDY-04,P083,Lab Sample Handling Timing,10,Major,12.14,8.56
+STUDY-04,P084,Lab Sample Handling Timing,4,Minor,7.89,3.27
+STUDY-04,P085,Lab Sample Handling Timing,7,Minor,5.97,2.59
+STUDY-04,P086,Lab Sample Handling Timing,1,Major,20.52,8.43
+STUDY-04,P086,Lab Sample Handling Timing,3,Minor,7.62,3.51
+STUDY-04,P089,Lab Sample Handling Timing,3,Minor,6.13,2.17
+STUDY-04,P090,Lab Sample Handling Timing,6,Major,6.47,10.66
+STUDY-04,P090,Lab Sample Handling Timing,8,Major,14.27,8.54
+STUDY-04,P091,Concomitant Medication Documentation,3,Minor,4.13,2.69
+STUDY-04,P092,Concomitant Medication Documentation,7,Minor,7.59,4.99
+STUDY-04,P092,Concomitant Medication Documentation,9,Minor,5.07,4.06
+STUDY-04,P092,Concomitant Medication Documentation,10,Minor,6.29,3.38
+STUDY-04,P092,Concomitant Medication Documentation,12,Minor,8.78,3.09
+STUDY-04,P093,Concomitant Medication Documentation,4,Minor,7.86,3.81
+STUDY-04,P093,Concomitant Medication Documentation,5,Minor,5.97,4.67
+STUDY-04,P093,Concomitant Medication Documentation,10,Minor,6.44,3.4
+STUDY-04,P093,Concomitant Medication Documentation,12,Critical,34.97,19.79
+STUDY-04,P095,Concomitant Medication Documentation,5,Major,18.21,0.5
+STUDY-04,P096,Concomitant Medication Documentation,1,Major,15.54,8.55
+STUDY-04,P096,Concomitant Medication Documentation,2,Minor,5.95,4.01
+STUDY-04,P097,Concomitant Medication Documentation,9,Major,14.91,9.5
+STUDY-04,P097,Concomitant Medication Documentation,11,Major,13.06,11.16
+STUDY-04,P098,Concomitant Medication Documentation,6,Minor,7.17,3.95
+STUDY-04,P098,Concomitant Medication Documentation,9,Major,15.73,10.47
+STUDY-04,P100,Concomitant Medication Documentation,2,Major,17.58,7.89
+STUDY-04,P100,Concomitant Medication Documentation,3,Minor,7.49,3.63
+STUDY-04,P100,Concomitant Medication Documentation,7,Major,20.71,10.35
+STUDY-04,P101,Concomitant Medication Documentation,4,Minor,5.06,5.51
+STUDY-04,P102,Concomitant Medication Documentation,10,Major,6.64,9.41
+STUDY-04,P102,Concomitant Medication Documentation,11,Major,11.56,11.94
+STUDY-04,P104,Concomitant Medication Documentation,12,Minor,6.38,2.79
+STUDY-04,P105,Concomitant Medication Documentation,7,Minor,5.6,2.86
+STUDY-04,P105,Concomitant Medication Documentation,11,Minor,5.54,3.19
+STUDY-04,P106,Concomitant Medication Documentation,3,Minor,4.87,3.71
+STUDY-04,P106,Concomitant Medication Documentation,5,Major,15.37,6.1
+STUDY-04,P107,Concomitant Medication Documentation,1,Minor,3.51,3.75
+STUDY-04,P107,Concomitant Medication Documentation,8,Major,15.86,9.6
+STUDY-04,P109,Adverse Event Reporting Timeliness,4,Critical,29.58,21.01
+STUDY-04,P112,Adverse Event Reporting Timeliness,2,Critical,32.48,25.18
+STUDY-04,P112,Adverse Event Reporting Timeliness,8,Major,24.85,4.55
+STUDY-04,P113,Adverse Event Reporting Timeliness,11,Critical,11.72,15.05
+STUDY-04,P114,Adverse Event Reporting Timeliness,11,Critical,29.28,14.79
+STUDY-04,P116,Adverse Event Reporting Timeliness,9,Critical,30.57,14.06
+STUDY-04,P117,Adverse Event Reporting Timeliness,2,Major,11.57,7.02
+STUDY-04,P118,Adverse Event Reporting Timeliness,1,Critical,24.7,18.26
+STUDY-04,P120,Adverse Event Reporting Timeliness,7,Critical,22.84,13.99
+STUDY-04,P120,Adverse Event Reporting Timeliness,9,Major,16.0,7.72
+STUDY-04,P121,Adverse Event Reporting Timeliness,9,Major,17.91,6.25
+STUDY-04,P122,Adverse Event Reporting Timeliness,2,Major,10.02,8.74
+STUDY-04,P122,Adverse Event Reporting Timeliness,11,Major,15.42,6.36
+STUDY-04,P123,Adverse Event Reporting Timeliness,12,Minor,8.02,5.15
+STUDY-04,P127,Source Document Verification,8,Minor,5.06,4.77
+STUDY-04,P129,Source Document Verification,1,Major,5.66,10.3
+STUDY-04,P129,Source Document Verification,4,Minor,4.71,4.33
+STUDY-04,P130,Source Document Verification,1,Minor,4.56,3.42
+STUDY-04,P131,Source Document Verification,2,Minor,4.78,3.29
+STUDY-04,P131,Source Document Verification,3,Major,20.4,7.9
+STUDY-04,P131,Source Document Verification,4,Minor,9.17,3.14
+STUDY-04,P131,Source Document Verification,6,Critical,35.7,8.95
+STUDY-04,P132,Source Document Verification,10,Minor,5.57,3.01
+STUDY-04,P133,Source Document Verification,2,Minor,8.31,3.64
+STUDY-04,P133,Source Document Verification,7,Major,6.69,5.46
+STUDY-04,P134,Source Document Verification,5,Minor,4.48,4.29
+STUDY-04,P135,Source Document Verification,11,Minor,7.21,3.22
+STUDY-04,P136,Source Document Verification,8,Minor,5.18,4.1
+STUDY-04,P136,Source Document Verification,11,Major,10.05,9.05
+STUDY-04,P137,Source Document Verification,1,Minor,6.56,3.24
+STUDY-04,P139,Source Document Verification,10,Minor,6.6,3.57
+STUDY-04,P140,Source Document Verification,3,Major,15.74,5.41
+STUDY-04,P140,Source Document Verification,8,Major,16.15,10.2
+STUDY-04,P141,Source Document Verification,3,Minor,6.48,4.0
+STUDY-04,P142,Source Document Verification,1,Minor,5.84,4.26
+STUDY-04,P142,Source Document Verification,11,Minor,6.1,2.48
+STUDY-04,P143,Source Document Verification,4,Minor,7.23,2.06
+STUDY-04,P143,Source Document Verification,8,Minor,6.42,3.15
+STUDY-04,P143,Source Document Verification,9,Minor,5.33,3.63
+STUDY-04,P144,Source Document Verification,5,Minor,4.94,3.93
+STUDY-05,P001,Visit Window Compliance,1,Minor,6.09,2.94
+STUDY-05,P001,Visit Window Compliance,4,Minor,8.01,3.66
+STUDY-05,P002,Visit Window Compliance,8,Major,16.21,11.0
+STUDY-05,P002,Visit Window Compliance,9,Minor,8.1,3.98
+STUDY-05,P003,Visit Window Compliance,2,Minor,5.55,2.24
+STUDY-05,P003,Visit Window Compliance,7,Minor,6.31,4.43
+STUDY-05,P003,Visit Window Compliance,11,Minor,6.53,0.5
+STUDY-05,P004,Visit Window Compliance,1,Major,17.05,10.01
+STUDY-05,P005,Visit Window Compliance,7,Minor,5.55,4.34
+STUDY-05,P007,Visit Window Compliance,1,Minor,6.94,2.88
+STUDY-05,P007,Visit Window Compliance,7,Minor,7.91,2.38
+STUDY-05,P010,Visit Window Compliance,6,Major,13.8,7.8
+STUDY-05,P012,Visit Window Compliance,4,Minor,4.76,3.74
+STUDY-05,P012,Visit Window Compliance,6,Minor,7.97,4.57
+STUDY-05,P014,Visit Window Compliance,9,Minor,7.09,2.0
+STUDY-05,P015,Visit Window Compliance,2,Major,9.32,8.46
+STUDY-05,P015,Visit Window Compliance,10,Minor,5.95,3.05
+STUDY-05,P016,Visit Window Compliance,1,Major,20.67,8.33
+STUDY-05,P016,Visit Window Compliance,5,Minor,6.81,4.34
+STUDY-05,P018,Visit Window Compliance,5,Minor,6.08,5.73
+STUDY-05,P019,Inclusion/Exclusion Criteria,5,Major,10.71,6.89
+STUDY-05,P020,Inclusion/Exclusion Criteria,12,Major,10.7,11.29
+STUDY-05,P022,Inclusion/Exclusion Criteria,3,Critical,31.21,13.03
+STUDY-05,P022,Inclusion/Exclusion Criteria,12,Major,10.98,10.93
+STUDY-05,P024,Inclusion/Exclusion Criteria,1,Minor,6.54,4.71
+STUDY-05,P024,Inclusion/Exclusion Criteria,5,Major,13.79,9.16
+STUDY-05,P025,Inclusion/Exclusion Criteria,9,Minor,6.45,2.94
+STUDY-05,P027,Inclusion/Exclusion Criteria,12,Critical,25.06,10.62
+STUDY-05,P029,Inclusion/Exclusion Criteria,6,Major,15.73,9.67
+STUDY-05,P029,Inclusion/Exclusion Criteria,9,Minor,7.49,4.06
+STUDY-05,P033,Inclusion/Exclusion Criteria,8,Critical,25.17,20.93
+STUDY-05,P036,Inclusion/Exclusion Criteria,7,Minor,7.34,4.69
+STUDY-05,P036,Inclusion/Exclusion Criteria,12,Major,19.08,7.87
+STUDY-05,P038,Dosing Schedule Adherence,10,Critical,28.52,18.0
+STUDY-05,P039,Dosing Schedule Adherence,5,Major,9.98,5.83
+STUDY-05,P040,Dosing Schedule Adherence,1,Critical,17.55,14.67
+STUDY-05,P040,Dosing Schedule Adherence,5,Major,12.83,5.21
+STUDY-05,P041,Dosing Schedule Adherence,2,Minor,6.22,3.4
+STUDY-05,P043,Dosing Schedule Adherence,3,Major,18.14,12.21
+STUDY-05,P043,Dosing Schedule Adherence,6,Critical,28.97,12.45
+STUDY-05,P045,Dosing Schedule Adherence,8,Major,16.26,8.14
+STUDY-05,P047,Dosing Schedule Adherence,5,Minor,5.64,2.73
+STUDY-05,P047,Dosing Schedule Adherence,7,Major,12.38,7.76
+STUDY-05,P048,Dosing Schedule Adherence,1,Minor,7.21,3.92
+STUDY-05,P048,Dosing Schedule Adherence,8,Major,20.39,9.49
+STUDY-05,P051,Dosing Schedule Adherence,9,Major,15.49,7.5
+STUDY-05,P054,Dosing Schedule Adherence,2,Minor,4.44,2.98
+STUDY-05,P057,Informed Consent Timing,4,Major,11.55,2.92
+STUDY-05,P057,Informed Consent Timing,12,Minor,4.49,4.87
+STUDY-05,P064,Informed Consent Timing,8,Major,15.29,7.36
+STUDY-05,P069,Informed Consent Timing,6,Minor,6.6,1.78
+STUDY-05,P070,Informed Consent Timing,10,Critical,27.83,19.9
+STUDY-05,P073,Lab Sample Handling Timing,1,Major,13.58,4.52
+STUDY-05,P074,Lab Sample Handling Timing,4,Critical,23.31,19.9
+STUDY-05,P074,Lab Sample Handling Timing,5,Major,14.91,5.24
+STUDY-05,P074,Lab Sample Handling Timing,6,Minor,9.55,2.39
+STUDY-05,P074,Lab Sample Handling Timing,8,Minor,5.64,2.58
+STUDY-05,P074,Lab Sample Handling Timing,12,Minor,4.45,3.09
+STUDY-05,P075,Lab Sample Handling Timing,12,Minor,6.95,4.6
+STUDY-05,P076,Lab Sample Handling Timing,2,Major,12.65,6.07
+STUDY-05,P077,Lab Sample Handling Timing,3,Minor,6.72,3.92
+STUDY-05,P078,Lab Sample Handling Timing,7,Major,14.84,8.68
+STUDY-05,P078,Lab Sample Handling Timing,8,Minor,5.83,3.57
+STUDY-05,P078,Lab Sample Handling Timing,9,Major,13.36,10.29
+STUDY-05,P079,Lab Sample Handling Timing,2,Minor,9.34,3.64
+STUDY-05,P080,Lab Sample Handling Timing,11,Minor,5.99,3.7
+STUDY-05,P080,Lab Sample Handling Timing,12,Minor,5.01,4.15
+STUDY-05,P081,Lab Sample Handling Timing,1,Major,15.54,7.27
+STUDY-05,P081,Lab Sample Handling Timing,5,Minor,7.35,3.5
+STUDY-05,P081,Lab Sample Handling Timing,9,Critical,19.69,16.41
+STUDY-05,P081,Lab Sample Handling Timing,10,Minor,6.36,4.32
+STUDY-05,P082,Lab Sample Handling Timing,4,Critical,31.41,14.67
+STUDY-05,P082,Lab Sample Handling Timing,11,Minor,5.29,3.48
+STUDY-05,P083,Lab Sample Handling Timing,10,Minor,6.54,3.9
+STUDY-05,P084,Lab Sample Handling Timing,2,Major,15.05,7.94
+STUDY-05,P084,Lab Sample Handling Timing,6,Critical,32.48,12.54
+STUDY-05,P084,Lab Sample Handling Timing,7,Major,22.68,9.67
+STUDY-05,P084,Lab Sample Handling Timing,8,Major,10.05,8.5
+STUDY-05,P085,Lab Sample Handling Timing,10,Critical,31.02,13.76
+STUDY-05,P085,Lab Sample Handling Timing,11,Major,8.77,6.01
+STUDY-05,P088,Lab Sample Handling Timing,3,Minor,6.81,1.95
+STUDY-05,P088,Lab Sample Handling Timing,5,Major,8.93,9.21
+STUDY-05,P089,Lab Sample Handling Timing,8,Major,13.22,6.71
+STUDY-05,P089,Lab Sample Handling Timing,10,Critical,22.78,9.54
+STUDY-05,P090,Lab Sample Handling Timing,10,Minor,6.73,2.78
+STUDY-05,P091,Concomitant Medication Documentation,12,Critical,22.52,16.39
+STUDY-05,P093,Concomitant Medication Documentation,7,Minor,5.62,2.87
+STUDY-05,P094,Concomitant Medication Documentation,1,Minor,3.02,3.8
+STUDY-05,P096,Concomitant Medication Documentation,3,Minor,6.12,3.03
+STUDY-05,P096,Concomitant Medication Documentation,11,Minor,4.44,3.49
+STUDY-05,P097,Concomitant Medication Documentation,3,Minor,6.72,3.57
+STUDY-05,P097,Concomitant Medication Documentation,8,Minor,8.46,4.09
+STUDY-05,P100,Concomitant Medication Documentation,3,Critical,25.3,17.86
+STUDY-05,P101,Concomitant Medication Documentation,6,Minor,6.07,3.52
+STUDY-05,P101,Concomitant Medication Documentation,10,Minor,7.94,2.7
+STUDY-05,P102,Concomitant Medication Documentation,1,Critical,26.15,19.57
+STUDY-05,P102,Concomitant Medication Documentation,11,Minor,6.46,3.16
+STUDY-05,P103,Concomitant Medication Documentation,4,Minor,3.44,1.5
+STUDY-05,P103,Concomitant Medication Documentation,7,Minor,9.11,3.75
+STUDY-05,P105,Concomitant Medication Documentation,11,Minor,5.12,3.78
+STUDY-05,P106,Concomitant Medication Documentation,7,Major,10.68,7.45
+STUDY-05,P107,Concomitant Medication Documentation,8,Minor,4.59,2.25
+STUDY-05,P107,Concomitant Medication Documentation,12,Minor,2.84,2.09
+STUDY-05,P108,Concomitant Medication Documentation,8,Minor,7.53,2.62
+STUDY-05,P109,Adverse Event Reporting Timeliness,7,Minor,6.8,4.31
+STUDY-05,P109,Adverse Event Reporting Timeliness,9,Major,14.06,7.51
+STUDY-05,P112,Adverse Event Reporting Timeliness,2,Critical,26.86,13.51
+STUDY-05,P114,Adverse Event Reporting Timeliness,7,Major,18.21,11.93
+STUDY-05,P115,Adverse Event Reporting Timeliness,7,Minor,8.17,1.61
+STUDY-05,P115,Adverse Event Reporting Timeliness,12,Minor,5.34,3.48
+STUDY-05,P116,Adverse Event Reporting Timeliness,7,Critical,29.01,8.57
+STUDY-05,P118,Adverse Event Reporting Timeliness,9,Minor,3.38,4.62
+STUDY-05,P119,Adverse Event Reporting Timeliness,2,Critical,22.37,9.47
+STUDY-05,P121,Adverse Event Reporting Timeliness,7,Minor,4.34,3.82
+STUDY-05,P121,Adverse Event Reporting Timeliness,11,Critical,20.65,15.99
+STUDY-05,P122,Adverse Event Reporting Timeliness,8,Major,10.57,4.58
+STUDY-05,P123,Adverse Event Reporting Timeliness,8,Critical,35.26,16.58
+STUDY-05,P124,Adverse Event Reporting Timeliness,10,Critical,23.83,13.11
+STUDY-05,P126,Adverse Event Reporting Timeliness,2,Critical,35.52,17.31
+STUDY-05,P127,Source Document Verification,7,Minor,7.72,2.97
+STUDY-05,P127,Source Document Verification,12,Major,14.18,8.94
+STUDY-05,P128,Source Document Verification,5,Minor,5.17,3.4
+STUDY-05,P128,Source Document Verification,8,Minor,5.12,3.83
+STUDY-05,P129,Source Document Verification,3,Minor,4.02,3.98
+STUDY-05,P130,Source Document Verification,11,Major,15.09,7.71
+STUDY-05,P131,Source Document Verification,1,Major,15.57,7.38
+STUDY-05,P133,Source Document Verification,8,Major,11.65,9.22
+STUDY-05,P134,Source Document Verification,1,Major,16.05,7.09
+STUDY-05,P136,Source Document Verification,4,Major,11.92,7.75
+STUDY-05,P136,Source Document Verification,9,Critical,22.41,20.83
+STUDY-05,P139,Source Document Verification,3,Minor,6.47,3.49
+STUDY-05,P141,Source Document Verification,1,Minor,4.6,4.12
+STUDY-05,P143,Source Document Verification,1,Minor,5.08,2.91
+STUDY-05,P143,Source Document Verification,2,Minor,7.16,3.82
+STUDY-05,P143,Source Document Verification,9,Minor,2.24,3.34
+STUDY-05,P144,Source Document Verification,6,Major,14.44,7.43
+STUDY-06,P002,Visit Window Compliance,8,Minor,6.24,1.91
+STUDY-06,P002,Visit Window Compliance,9,Minor,1.75,2.63
+STUDY-06,P003,Visit Window Compliance,8,Minor,6.42,0.67
+STUDY-06,P003,Visit Window Compliance,12,Minor,4.73,1.81
+STUDY-06,P004,Visit Window Compliance,3,Minor,5.64,5.18
+STUDY-06,P005,Visit Window Compliance,2,Minor,5.67,3.39
+STUDY-06,P005,Visit Window Compliance,7,Minor,7.26,3.5
+STUDY-06,P006,Visit Window Compliance,2,Minor,5.68,4.29
+STUDY-06,P006,Visit Window Compliance,4,Minor,6.71,3.73
+STUDY-06,P006,Visit Window Compliance,5,Major,13.51,7.42
+STUDY-06,P006,Visit Window Compliance,12,Major,17.21,7.44
+STUDY-06,P008,Visit Window Compliance,4,Minor,7.85,2.57
+STUDY-06,P008,Visit Window Compliance,7,Major,19.02,9.08
+STUDY-06,P009,Visit Window Compliance,1,Major,10.61,9.15
+STUDY-06,P009,Visit Window Compliance,8,Minor,5.02,3.51
+STUDY-06,P010,Visit Window Compliance,2,Minor,5.27,3.36
+STUDY-06,P010,Visit Window Compliance,6,Minor,7.41,3.93
+STUDY-06,P011,Visit Window Compliance,5,Minor,4.31,2.55
+STUDY-06,P012,Visit Window Compliance,7,Major,14.95,8.82
+STUDY-06,P014,Visit Window Compliance,10,Minor,4.99,4.86
+STUDY-06,P016,Visit Window Compliance,1,Minor,7.22,2.94
+STUDY-06,P016,Visit Window Compliance,3,Critical,21.31,14.22
+STUDY-06,P017,Visit Window Compliance,3,Major,12.84,10.67
+STUDY-06,P017,Visit Window Compliance,5,Major,17.45,8.19
+STUDY-06,P018,Visit Window Compliance,3,Minor,7.02,4.2
+STUDY-06,P018,Visit Window Compliance,8,Major,14.2,8.94
+STUDY-06,P024,Inclusion/Exclusion Criteria,1,Critical,29.86,16.92
+STUDY-06,P027,Inclusion/Exclusion Criteria,11,Minor,4.83,2.89
+STUDY-06,P028,Inclusion/Exclusion Criteria,1,Minor,5.57,2.87
+STUDY-06,P028,Inclusion/Exclusion Criteria,7,Critical,16.42,17.63
+STUDY-06,P029,Inclusion/Exclusion Criteria,4,Critical,28.25,10.03
+STUDY-06,P030,Inclusion/Exclusion Criteria,4,Major,13.16,7.75
+STUDY-06,P031,Inclusion/Exclusion Criteria,5,Minor,6.27,2.54
+STUDY-06,P036,Inclusion/Exclusion Criteria,1,Major,9.26,9.18
+STUDY-06,P036,Inclusion/Exclusion Criteria,11,Minor,3.7,3.28
+STUDY-06,P037,Dosing Schedule Adherence,2,Major,12.86,7.87
+STUDY-06,P037,Dosing Schedule Adherence,5,Major,14.88,11.37
+STUDY-06,P039,Dosing Schedule Adherence,6,Minor,3.6,4.24
+STUDY-06,P039,Dosing Schedule Adherence,12,Major,5.21,10.95
+STUDY-06,P040,Dosing Schedule Adherence,7,Critical,12.72,24.27
+STUDY-06,P041,Dosing Schedule Adherence,1,Minor,5.42,4.6
+STUDY-06,P041,Dosing Schedule Adherence,10,Major,17.79,7.23
+STUDY-06,P041,Dosing Schedule Adherence,11,Major,12.74,6.42
+STUDY-06,P043,Dosing Schedule Adherence,8,Minor,7.18,3.11
+STUDY-06,P046,Dosing Schedule Adherence,7,Critical,20.68,17.11
+STUDY-06,P047,Dosing Schedule Adherence,5,Major,10.86,7.45
+STUDY-06,P047,Dosing Schedule Adherence,7,Critical,26.7,12.66
+STUDY-06,P048,Dosing Schedule Adherence,7,Minor,5.26,4.82
+STUDY-06,P049,Dosing Schedule Adherence,2,Major,13.29,7.39
+STUDY-06,P049,Dosing Schedule Adherence,3,Critical,24.86,16.79
+STUDY-06,P050,Dosing Schedule Adherence,3,Minor,4.45,3.85
+STUDY-06,P051,Dosing Schedule Adherence,7,Minor,6.38,1.92
+STUDY-06,P051,Dosing Schedule Adherence,9,Critical,37.66,20.59
+STUDY-06,P052,Dosing Schedule Adherence,5,Critical,20.8,10.85
+STUDY-06,P053,Dosing Schedule Adherence,4,Critical,27.48,9.7
+STUDY-06,P053,Dosing Schedule Adherence,6,Major,18.77,7.17
+STUDY-06,P053,Dosing Schedule Adherence,9,Minor,8.43,2.76
+STUDY-06,P054,Dosing Schedule Adherence,5,Major,13.61,10.69
+STUDY-06,P059,Informed Consent Timing,11,Minor,5.52,3.72
+STUDY-06,P065,Informed Consent Timing,1,Major,17.82,6.99
+STUDY-06,P072,Informed Consent Timing,8,Major,9.58,5.16
+STUDY-06,P072,Informed Consent Timing,12,Minor,6.88,3.82
+STUDY-06,P073,Lab Sample Handling Timing,2,Minor,7.59,3.24
+STUDY-06,P073,Lab Sample Handling Timing,4,Major,8.99,3.34
+STUDY-06,P075,Lab Sample Handling Timing,10,Minor,10.3,3.94
+STUDY-06,P076,Lab Sample Handling Timing,7,Minor,6.21,3.72
+STUDY-06,P077,Lab Sample Handling Timing,2,Critical,16.7,12.08
+STUDY-06,P077,Lab Sample Handling Timing,10,Minor,8.61,4.05
+STUDY-06,P079,Lab Sample Handling Timing,4,Major,11.33,5.63
+STUDY-06,P079,Lab Sample Handling Timing,8,Minor,5.23,3.21
+STUDY-06,P080,Lab Sample Handling Timing,4,Major,21.17,7.74
+STUDY-06,P080,Lab Sample Handling Timing,8,Minor,4.22,3.43
+STUDY-06,P080,Lab Sample Handling Timing,11,Minor,6.4,2.37
+STUDY-06,P084,Lab Sample Handling Timing,12,Critical,28.61,19.64
+STUDY-06,P085,Lab Sample Handling Timing,3,Major,14.49,6.5
+STUDY-06,P085,Lab Sample Handling Timing,8,Major,12.15,4.75
+STUDY-06,P086,Lab Sample Handling Timing,2,Minor,5.8,3.75
+STUDY-06,P086,Lab Sample Handling Timing,11,Minor,4.66,5.17
+STUDY-06,P087,Lab Sample Handling Timing,7,Minor,7.19,1.92
+STUDY-06,P087,Lab Sample Handling Timing,11,Critical,14.48,11.37
+STUDY-06,P088,Lab Sample Handling Timing,5,Major,19.51,9.93
+STUDY-06,P088,Lab Sample Handling Timing,6,Critical,36.55,15.12
+STUDY-06,P088,Lab Sample Handling Timing,12,Major,13.27,5.59
+STUDY-06,P090,Lab Sample Handling Timing,2,Major,15.22,7.72
+STUDY-06,P090,Lab Sample Handling Timing,3,Minor,5.65,4.89
+STUDY-06,P090,Lab Sample Handling Timing,10,Minor,5.81,4.64
+STUDY-06,P091,Concomitant Medication Documentation,12,Minor,3.62,5.82
+STUDY-06,P092,Concomitant Medication Documentation,3,Minor,5.44,4.1
+STUDY-06,P093,Concomitant Medication Documentation,4,Minor,7.3,3.05
+STUDY-06,P094,Concomitant Medication Documentation,8,Minor,7.23,4.24
+STUDY-06,P095,Concomitant Medication Documentation,4,Minor,4.93,2.87
+STUDY-06,P095,Concomitant Medication Documentation,10,Major,14.16,7.89
+STUDY-06,P096,Concomitant Medication Documentation,12,Minor,8.09,4.09
+STUDY-06,P097,Concomitant Medication Documentation,3,Major,13.75,9.35
+STUDY-06,P097,Concomitant Medication Documentation,6,Major,6.84,6.87
+STUDY-06,P097,Concomitant Medication Documentation,9,Minor,6.43,4.45
+STUDY-06,P097,Concomitant Medication Documentation,10,Minor,6.3,4.75
+STUDY-06,P099,Concomitant Medication Documentation,5,Minor,7.3,3.06
+STUDY-06,P099,Concomitant Medication Documentation,8,Minor,5.79,3.84
+STUDY-06,P100,Concomitant Medication Documentation,12,Major,12.43,11.23
+STUDY-06,P101,Concomitant Medication Documentation,2,Minor,4.34,3.76
+STUDY-06,P101,Concomitant Medication Documentation,8,Minor,7.1,3.21
+STUDY-06,P102,Concomitant Medication Documentation,2,Major,12.11,7.97
+STUDY-06,P103,Concomitant Medication Documentation,5,Minor,7.22,3.05
+STUDY-06,P103,Concomitant Medication Documentation,6,Minor,4.4,4.48
+STUDY-06,P103,Concomitant Medication Documentation,8,Minor,6.6,4.36
+STUDY-06,P104,Concomitant Medication Documentation,2,Minor,7.14,5.38
+STUDY-06,P105,Concomitant Medication Documentation,2,Critical,33.25,12.35
+STUDY-06,P106,Concomitant Medication Documentation,5,Minor,6.71,2.99
+STUDY-06,P108,Concomitant Medication Documentation,3,Minor,5.32,2.25
+STUDY-06,P108,Concomitant Medication Documentation,12,Minor,5.57,3.95
+STUDY-06,P110,Adverse Event Reporting Timeliness,11,Major,13.77,5.89
+STUDY-06,P111,Adverse Event Reporting Timeliness,9,Minor,3.72,5.32
+STUDY-06,P113,Adverse Event Reporting Timeliness,2,Minor,6.49,2.76
+STUDY-06,P114,Adverse Event Reporting Timeliness,11,Major,15.62,12.56
+STUDY-06,P115,Adverse Event Reporting Timeliness,2,Minor,6.93,1.06
+STUDY-06,P116,Adverse Event Reporting Timeliness,1,Major,23.28,4.37
+STUDY-06,P118,Adverse Event Reporting Timeliness,10,Major,13.28,5.82
+STUDY-06,P119,Adverse Event Reporting Timeliness,12,Major,11.41,8.7
+STUDY-06,P120,Adverse Event Reporting Timeliness,12,Critical,12.54,14.74
+STUDY-06,P121,Adverse Event Reporting Timeliness,2,Minor,7.72,2.75
+STUDY-06,P122,Adverse Event Reporting Timeliness,4,Critical,16.96,14.55
+STUDY-06,P126,Adverse Event Reporting Timeliness,12,Major,12.82,6.91
+STUDY-06,P130,Source Document Verification,9,Minor,4.22,3.93
+STUDY-06,P131,Source Document Verification,12,Minor,6.89,2.55
+STUDY-06,P132,Source Document Verification,11,Minor,4.61,3.6
+STUDY-06,P133,Source Document Verification,6,Minor,4.55,3.64
+STUDY-06,P133,Source Document Verification,9,Minor,8.2,3.43
+STUDY-06,P136,Source Document Verification,9,Minor,4.18,3.82
+STUDY-06,P136,Source Document Verification,10,Minor,5.73,3.35
+STUDY-06,P137,Source Document Verification,3,Minor,6.71,4.08
+STUDY-06,P138,Source Document Verification,3,Major,14.12,8.0
+STUDY-06,P140,Source Document Verification,4,Minor,9.1,4.52
+STUDY-06,P140,Source Document Verification,5,Minor,7.25,3.59
+STUDY-06,P140,Source Document Verification,6,Minor,4.49,4.46
+STUDY-06,P141,Source Document Verification,4,Minor,6.22,2.98
+STUDY-06,P141,Source Document Verification,6,Minor,5.64,2.64
+STUDY-06,P141,Source Document Verification,9,Minor,7.59,4.07
+STUDY-06,P142,Source Document Verification,5,Minor,6.27,3.44
+STUDY-06,P142,Source Document Verification,12,Minor,4.98,1.63
+STUDY-06,P143,Source Document Verification,8,Minor,3.88,2.83
+STUDY-06,P144,Source Document Verification,9,Minor,4.66,3.73
